@@ -1,0 +1,11 @@
+A **modal** is an element that prevents all interaction with elements outside it until the modal has been dismissed.
+
+The HTML dialog element has a showModal() method that can be used to display a modal dialog box on a web page.
+
+The findIndex() array method finds and returns the index of the first element in an array that meets the criteria specified by a provided testing callback function. If no such element is found, the method returns -1. 
+
+splice() is an array method that modifies arrays by removing, replacing, or adding elements at a specified index, while also returning the removed elements. It can take up to three arguments: the first one is the mandatory index at which to start, the second is the number of items to remove, and the third is an optional replacement element. 
+
+localStorage offers methods for saving, retrieving, and deleting items. The items you save can be of any JavaScript data type.
+
+For instance, the setItem() method is used to save an item, and the getItem() method retrieves the item. To delete a specific item, you can utilize the removeItem() method, or if you want to delete all items in the storage, you can use clear().
