@@ -13,3 +13,6 @@ Learning JavaScript by building 21 projects in freeCodeCamp
 4. .map()
 5. .filter()
 6. localStorage 
+7. Recursion
+8. Events (click, change, keydown)
+9. .parseInt()
