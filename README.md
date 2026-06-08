@@ -16,3 +16,6 @@ Learning JavaScript by building 21 projects in freeCodeCamp
 7. Recursion
 8. Events (click, change, keydown)
 9. .parseInt()
+10. regex
+11. Sorting Algorithms
+    - 
