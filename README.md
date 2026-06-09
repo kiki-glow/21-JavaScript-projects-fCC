@@ -9,6 +9,7 @@ Learning JavaScript by building 21 projects in freeCodeCamp
     - .unshift()
     - forEach()
     - .splice()
+    - .sort() 
 3. Arrow functions
 4. .map()
 5. .filter()
@@ -18,4 +19,6 @@ Learning JavaScript by building 21 projects in freeCodeCamp
 9. .parseInt()
 10. regex
 11. Sorting Algorithms
-    - 
+    - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
